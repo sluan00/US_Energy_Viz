@@ -1,0 +1,518 @@
+osm_id,lat,lon,name,operator,city,state
+751881301,38.9028879,-77.0291491,CoreSite DC1,CoreSite,,
+1825907839,35.1032925,-106.5893487,Southwest Cyberport,,Albuquerque,NM
+2590601520,42.4378824,-123.3286299,FCR,,Grants Pass,OR
+2607827436,32.7750252,-117.070888,SDSU Computer Room,,,
+3406467087,25.7915453,-80.3177484,NocRoom Miami IT Services,,,
+3406476814,25.6465617,-80.4234346,NocRoom Miami IT Services,,,
+3468203102,30.407446,-91.1725454,Center for Computation & Technology (CCT),,,
+3732415309,45.5214248,-122.680562,The Pittock Internet Exchange,Alco Properties,Portland,OR
+4879481820,33.7715677,-84.3668585,Google Fiber,Google,,
+5146323411,37.8698521,-122.2598231,Open Computing Facility,,,
+5225685660,37.415688,-79.1427063,Lumos Networks,,,
+6401035673,35.4672049,-97.6497453,Rack59 Data Center,,Oklahoma CIty,OK
+6625492701,35.0925015,-106.6536712,Oso Grande,Oso Grande,Albuquerque,NM
+6685432442,39.5140963,-119.4795921,Switch Tahoe Reno - The Citadel Campus,Switch,McCarran,NV
+6793837329,39.6309851,-78.2253196,Morgan Wireless,,Bath (Berkeley Springs),WV
+6856057098,32.7825463,-96.7828145,VIRTBIZ,,Dallas,TX
+7171975407,43.6578388,-70.2613785,FirstLight Data Center,FirstLight,Portland,ME
+7264976228,40.42179,-86.9141546,Learning GIS!,,,
+7324132050,35.881397,-78.851552,Windstream Communications,,Durham,NC
+7557854384,33.3804149,-111.7526684,OptimumHQ,,Mesa,AZ
+7578821329,33.3199157,-111.809686,All About Serving Process Server,,Chandler,AZ
+7737996606,33.302965,-111.8405386,Emailage,,,
+7821940847,33.3799862,-111.728405,Alliance Technology,,Mesa,AZ
+9669639033,38.9208538,-77.2115713,Lumen McLean,Lumen Technologies,McLean,VA
+429782814,29.6725909,-82.2999288,UF Research Computing Center,University of Florida,Gainesville,FL
+8109664813,33.7555186,-84.3914814,Atlanta ATL13,Digital Realty,Atlanta,GA
+8165754026,43.0439408,-87.9539794,Data Holdings Data Center,,Milwaukee,WI
+8238715059,37.4027449,-121.891051,STACK Infrastructure,"Stack Infrastructure, Incorporated",San Jose
+8477460442,35.2553162,-120.6415128,Digital West Data Center,,,
+8641856300,42.6279424,-82.9883939,Chick-fil-A Hiring Center,Dennis Sampier,,
+8767284091,41.7070776,-72.5898636,Ergonomic Group,,Glastonbury,CT
+8897151054,37.3341181,-121.891646,San Jose Colocation Center,CoreSite,San Jose,CA
+48242814,39.0216753,-77.4329728,Amazon IAD10,Amazon Web Services,Sterling,VA
+9190480200,30.1781365,-95.4860464,Stream Data Centers Houston,,The Woodlands,TX
+9669340912,39.2877017,-76.6064893,Crown Castle Baltimore,Crown Castle Fiber,Baltimore,MD
+9721703993,43.0093779,-87.9610618,TierPoint Milwaukee,,,
+9736262934,42.9902011,-78.8123836,Frontier Science,,Amherst,NY
+9922928085,39.1009071,-94.5811452,Netrality Data Centers,,Kansas City,MO
+10014176940,18.4174359,-66.1089895,Microsoft,Microsoft,Guaynabo,PR
+10537283366,41.8728811,-87.63344,Netrality,Netrality,Chicago,IL
+10567817971,36.0030993,-78.9385323,Brandaleone Lab for Data and Visualization,Duke Libraries,,
+10648552506,35.9295133,-84.310567,Frontier (supercomputer),Oak Ridge National Laboratory,,
+192307107,37.7889916,-122.3901367,360 Spear Street Data Center,Digital Realty,San Francisco,CA
+10796113031,33.627367,-111.9017033,VaultLogix,,,
+10880725408,37.9710809,-122.0437382,e360,,Concord,CA
+157362579,33.6846775,-112.0983398,Flexential Phoenix - Deer Valley,Flexential,Phoenix,AZ
+11167641842,39.4273178,-76.8115503,Expedient Owings Mills,Expedient,Owings Mills,MD
+11400893880,39.5938733,-104.8431597,Flexential - Denver - Centennial Data Center,Flexential,Centennial,CO
+11526819452,43.7971554,-123.0559456,EarthClick.net LLC,,Cottage Grove,OR
+940821791,33.3944358,-111.9525168,Omnis Network,,Tempe,AZ
+11815482844,41.8072817,-83.6276287,,,,
+11924506303,33.9102899,-117.5030207,IT,,,
+12112201416,39.3159313,-84.4494638,Flexential Cincinnati,Flexential,West Chester,OH
+12112236372,39.7459702,-104.9941589,Flexential Denver - Downtown,Flexential,Denver,CO
+12112238944,32.8004101,-96.8193707,Flexential Dallas - Downtown Dallas,Flexential,Dallas,TX
+12112266917,30.2457482,-81.5817226,Flexential Jacksonville,Flexential,Jacksonville,FL
+12112270180,39.6610488,-104.8488321,Flexential - Denver - Aurora,Flexential,Aurora,CO
+12112295055,35.9727294,-86.8084949,Flexential Nashville - Brentwood,Flexential,Brentwood,TN
+12112361725,35.8505281,-78.8291431,Flexential Raleigh,Flexential,Morrisville,NC
+12112380995,28.0372991,-82.5399781,Flexential Tampa - West,Flexential,Tampa,FL
+12112382397,40.332648,-111.7278754,Flexential Salt Lake City - Lindon,Flexential,Lindon,UT
+12221811811,40.719928,-74.0044583,Digital Realty New York JFK13,Digital Realty,New York,NY
+12387534800,35.0867385,-106.6153476,UNM Data Center,UNM,Albuquerque,NM
+37947314,37.3784704,-121.9549839,Equinix Santa Clara SV2,Equinix,Santa Clara,CA
+204460903,40.5529283,-74.4592038,Digital Realty New York EWR12,Digital Realty,Piscataway Township,NJ
+193611192,40.7785845,-74.0723242,Equinix New York Secaucus NY5,Equinix,Secaucus,NJ
+12550746951,37.3228675,-121.9474176,"Forescout Technologies, Inc.",,San Jose
+12682482760,42.7356308,-73.818665,Lumen Albany 4,Lumen Technologies,Albany,NY
+12708029111,40.315558,-74.6688514,501 West,,Princeton,NJ
+12766117170,40.6576957,-74.0048163,Dataverge,Dataverge,Brooklyn,NY
+12793428582,36.0994735,-95.8382826,TulsaConnect DC3,,,
+1015704066,33.3520091,-111.6475291,EdgeConneX PHX02 Data Center,EdgeConneX,Mesa,AZ
+13042311881,34.0584789,-118.2359144,CoreSite - LA2,CoreSite,Los Angeles,CA
+13154826378,39.0160142,-77.471954,NTT Ashburn VA7 Data Center,NTT,Ashburn,VA
+13154826379,38.7999731,-77.6099636,NTT VA11 Data Center,NTT,Gainesville,VA
+13226718075,43.0677161,-89.3922794,Lumen Madison 1 Data Center,Lumen Technologies,,
+13311012216,36.0659405,-115.1398835,Fiberhub LAS1,Fiberhub,Las Vegas,NV
+13409186015,40.0879189,-75.3397205,DāStor: 3400 Horizon Drive,,King of Prussia,PA
+13546262077,38.3531768,-81.6961822,Alpha Federal,Alpha Innovations,South Charleston,WV
+13603878193,45.7430786,-108.6030144,Parsec Data Management,,,
+13639231258,46.9741721,-96.8739403,Applied Digital,,Harwood,ND
+1493516619,37.4852894,-77.2501822,DC6,Quality Technology Services,Sandston,VA
+159959672,36.1585898,-95.9886293,TierPoint,,Tulsa,OK
+25706343,32.832716,-97.0410241,Cyxtera Dallas-Fort Worth Data Center,Cyxtera,,
+29827954,42.3767059,-71.0797577,CoreSite BO1,,Somerville,MA
+31250931,39.3038941,-84.3116127,CyrusOne Cincinnati-Mason CIN3,CyrusOne,,
+31800424,32.8278941,-117.1299275,LightEdge SAN1,,San Diego,CA
+31803515,32.8423554,-117.1694226,EdgeConneX San Diego,EdgeConneX,San Diego,CA
+32560290,38.6504002,-121.4919461,RagingWire CA2,NTT,Sacramento,CA
+39083797,34.0869874,-84.251824,Flexential Atlanta - Alpharetta Data Center,Flexential,Alpharetta,GA
+35491576,37.2415975,-121.7833277,Equinix SV1,Equinix,San Jose,CA
+36897140,39.2940482,-84.4121132,,,,
+37877544,37.3734695,-121.9878002,Lumen Sunnyvale 1,Lumen Technologies,Sunnyvale,CA
+39083541,34.0948126,-84.2357244,Strategic Datasphere,,Alpharetta,GA
+42323063,38.6292617,-90.1971749,Netrality Data Centers,,Saint Louis,MO
+45448535,44.9914423,-93.2803397,,,,
+45776978,38.7904948,-77.5411095,Amazon IAD11,Amazon Web Services,Manassas,VA
+46128119,39.1026943,-84.5178996,CyrusOne CIN2,CyrusOne,Cincinnati,OH
+46831933,38.7780614,-77.594905,VA 4,Digital Realty,Bristow,VA
+52059176,45.5496803,-122.9373872,NTT RagingWire Data Center,NTT,Hillsboro,OR
+52227492,44.8516116,-93.5988964,Flexential Minneapolis - Chaska,Flexential,Chaska,MN
+54119665,37.397572,-121.980963,Csquare SFO2,Csquare,Santa Clara,CA
+63619642,44.9712882,-93.2546974,Minnesota Gateway Data Center,,Minneapolis,MN
+69827429,42.6493531,-73.7527453,IBM Building,,Albany,NY
+71187940,42.3262876,-83.0769768,,Verizon Wireless,Detroit,MI
+79056848,43.1436204,-70.9524471,,University of New Hampshire,,NH
+79158387,38.9484941,-77.3273071,VA3,Digital Realty,Reston,VA
+79298926,38.9506059,-77.3645496,CoreSite Reston Campus VA1,CoreSite,Reston,VA
+87058670,43.0761287,-70.8080395,,FirstLight,Portsmouth,NH
+93210344,39.0586081,-76.964467,Lincoln Rackhouse Maryland,Lincoln Rackhouse,Silver Spring,MD
+95349317,39.3889702,-84.2218527,CyrusOne Cincinnati-Lebanon,,,
+95782052,40.7968626,-74.0311403,Equinix NY7 Data Center,Equinix,North Bergen,NJ
+99813512,37.4145109,-122.0145563,Equinix SV4,Equinix,Sunnyvale,CA
+99861735,44.8071075,-93.375382,Verizon - Bloomington Network,Verizon,Bloomington,MN
+102129663,29.4293706,-98.4869057,H5 Data Centers San Antonio,H5 Data Centers,San Antonio,TX
+104082694,41.5879926,-93.6310139,Aureon,,Des Moines,IA
+122665255,41.2407307,-73.1472668,Digital Realty New York HVN10,Digital Realty,Trumbull,CT
+124088810,41.7721034,-88.2170821,Lincoln Rackhouse,,,
+128499684,41.9942413,-87.961935,Digital Realty CH1,Digital Realty,Elk Grove Village,IL
+131874718,44.972195,-93.1474731,H5 Minneapolis,H5,Saint Paul,MN
+131891022,33.42038,-112.0413257,Iron Mountain Records Storage,,Phoenix,AZ
+132746406,37.4458951,-122.160786,Equinix SV8,Equinix,Palo Alto,CA
+138260136,40.0952591,-88.2420314,NCSA Petascale Computing Facility,,Champaign,IL
+138643160,39.912797,-83.7236638,LexisNexus Springfield,,Springfield,
+151179323,33.494309,-112.0707916,Lumen,Lumen Technologies,Phoenix,AZ
+152163711,33.3053366,-111.6716904,L3Harris Technologies Inc,,,
+166431620,41.3179864,-96.0503485,"Union Pacific Jack Koraleski Technology, Research & Development Center",Union Pacific Railroad,Omaha
+168129695,40.4513704,-80.1901663,DataBank Pittsburgh PIT2,,Pittsburgh,PA
+169170979,34.9954515,-106.6180334,Molina Healthcare,,,NM
+172739953,36.0599191,-115.210197,Switch Las Vegas 7,Switch,Enterprise,NV
+178331621,39.3777781,-77.4115448,,,,
+187574082,40.4949031,-74.4430949,Verizon Wireline Network Building,,,
+1226436457,41.212197,-95.878,CyrusOne OCB1 Council Bluffs,CyrusOne,Council Bluffs,IA
+195165374,39.2954814,-94.6780114,Black Rock Financial Management,,Kansas City,MO
+195664350,36.2625496,-95.9100413,Cherokee Data Center,,Tulsa,OK
+199252950,41.7966077,-88.2438232,CyrusOne Chicago Aurora CME,CyrusOne,Aurora,IL
+203432103,39.1744228,-86.5006878,IU Data Center,Indiana University,Bloomington,IN
+204316962,40.5208169,-74.3472226,IO Datacenter,,Edison,NJ
+362662493,40.5569431,-74.4839173,QTS Piscataway Data Center,Quality Technology Services,Piscataway,NJ
+293211683,47.491986,-122.2896655,Intergate Seattle East Building 5,Sabey,Tukwila,WA
+209786637,41.84219,-87.6689434,QTS Chicago,Quality Technology Services,Chicago,IL
+210222970,41.8487049,-87.6454577,Iron Mountain Data & Record Storage,Iron Mountain,Chicago,IL
+211832626,42.6857078,-71.2086024,,TierPoint,Andover,MA
+214321737,42.6302832,-71.3045615,Markley Data Center,Markley Group,,
+215630401,35.1354147,-80.9368313,Flexential Charlotte - South,Flexential,Charlotte,NC
+220518160,33.3446197,-111.8992189,Digital Realty Data Center,Digital Realty,Tempe,AZ
+221201212,47.6933236,-122.3173172,,Comcast,,
+222672860,38.815021,-77.64868,Amazon IAD-55,Amazon Web Services,Haymarket,VA
+223928497,47.6143555,-122.3388637,Westin Building,Digital Realty,Seattle,WA
+1000784035,38.7430518,-77.5333746,Amazon Web Services,Amazon Web Services,Manassas,VA
+224139416,37.418381,-121.9431173,Dell 350 Holger Way,,San Jose,
+225745958,38.7474201,-77.6744649,OVH US East Vint Hill,,,
+231047065,41.1287467,-104.8974315,NCAR-Wyoming Supercomputing Center,University Corporation for Atmospheric Research,Cheyenne,WY
+231664575,47.6189539,-122.3365314,The Seattle Times,H5 Data Centers,Seattle,WA
+231769626,45.6320147,-121.2012021,Google Data Center The Dalles Oregon,Google,,
+233888384,35.7249921,-78.6623632,Segra Data Center,,Raleigh,NC
+239032142,43.6069708,-96.8091949,TierPoint Sioux Falls West Data Center,,Sioux Falls,SD
+240724127,40.563602,-112.0478049,eBay,,,
+243242167,41.8125627,-87.9728504,Equinix Chicago Data CH7,Equinix,,
+244490839,33.416077,-112.0094718,PhoenixNAP,,Phoenix,AZ
+247428943,40.6070367,-74.1749048,Telehouse Teleport,Telehouse,New York City,NY
+258343744,38.8997236,-77.4534439,Amazon IAD-9,Amazon Web Services,Chantilly,VA
+253670255,42.6793587,-76.9485811,Greenidge Power Plant and Data Center,Greenidge Generation Holdings Inc.,,
+1017460713,36.143646,-115.076779,Switch Las Vegas 4,Switch,Las Vegas,NV
+254773897,33.095083,-96.6837876,Evoque Allen DA1,Centersquare,Allen,TX
+818167571,41.257291,-95.9378494,1623 Farnam,News-Press & Gazette Company,Omaha,NE
+257581364,37.6468902,-77.4386952,Flexential - Richmond,Flexential,Richmond,VA
+269166415,34.0362568,-84.3195121,Cox Data Center,,,
+269847438,33.7776897,-84.4211544,QTS Atlanta Data Center 1,Quality Technology Services,Atlanta,GA
+273895868,38.9809293,-77.4443786,Centersquare IAD3,Centersquare,Dulles,VA
+273896089,38.9844198,-77.4238096,Centersquare IAD2-A,Centersquare,Sterling,VA
+278560778,33.6570094,-84.4152195,Digital Realty Data Center,Digital Realty,Atlanta,
+279410762,40.7607798,-74.0257417,Cyxtera (Digital Realty Trust) Citibank Data Center,Cyxtera,Weehawken,NJ
+283051472,47.2453673,-119.8160897,Intergate Quincy Data Center,Sabey Data Centers,,
+284044002,33.9255145,-84.4816338,CoreSite AT2 - Marietta Data Center,CoreSite,,
+289620443,37.7236272,-122.3979543,Digital Realty San Francisco SFO10,Digital Realty,San Francisco,CA
+290101976,43.8252286,-111.7820703,VentureData,,Rexburg,ID
+290307022,33.4002195,-112.0478786,Cogent Data Center,"Cogent Communications, Inc.",Phoenix
+290703004,32.8175508,-96.873071,CoreSpace Dallas,CoreSpace,Dallas,TX
+296374269,40.6356953,-75.4575733,Flexential Allentown data center,Flexential,Allentown,PA
+299388896,37.4056857,-121.9162604,CoreSite SV2,"CoreSite Real Estate 1656 McCarthy, L.P.",Milpitas
+300952513,33.2749228,-111.8866379,Digital Realty Phoenix PHX15,Digital Realty,Chandler,AZ
+300969250,39.0125623,-77.4754047,Equinix DC13,Equinix,Ashburn,VA
+300974499,33.3470334,-111.6041418,Apple Data Center,Apple Inc.,Mesa,AZ
+317466755,42.2167763,-87.9529303,VISA,VISA,Vernon Hills,IL
+318069356,35.6724585,-105.9565924,John F. Simms Building,SONM,Santa Fe,NM
+397914434,44.2894155,-120.8750774,,Apple,,
+328703598,45.5498253,-122.8908454,Flexential,Flexential,Hillsboro,OR
+329551673,38.2771906,-85.5072402,Flexential Louisville - East,Flexential,Louisville,KY
+330276516,38.242501,-85.733336,Flexential Louisville - Downtown,Flexential,Louisville,KY
+334264478,39.9598116,-75.1608332,Terminal Commerce Building,,Philadelphia,PA
+335468616,47.6719149,-117.0959323,TierPoint,,,
+337127824,47.2435798,-119.8657481,NTT Data Quincy,NTT,,
+342664739,41.5502695,-90.4824093,Geneseo Communications Inc,,,
+343593591,41.9053402,-88.2195062,,,West Chicago,
+349925359,39.7171971,-85.941411,,Verizon Wireless,New Palestine,IN
+355926681,40.6203519,-111.986047,Flexential Salt Lake City - South Valley,Flexential,West Jordan,UT
+358946546,37.6994753,-121.9037995,QES Computers,,,
+363017375,39.0528404,-76.9259248,AiNET,,,
+364289073,29.47827,-98.6906853,Microsoft,Microsoft,San Antonio,TX
+365941471,18.446827,-66.0516873,,Claro,,
+366049843,40.127067,-75.4086586,Lumen Norristown,Lumen Technologies,,
+369728508,45.5266839,-122.8755048,Data Center,Oregon Health & Science University,,
+590213771,33.1385206,-96.6599516,CyrusOne Allen,CyrusOne,,
+376627431,48.75726,-122.4805485,CSSNW Bellingham,CSS Communications,,
+377212693,41.9742269,-87.9671756,Element Critical CH2,Element Critical,Wood Dale,IL
+377545385,39.558994,-104.8375559,Flexential Denver - Englewood,Flexential,Englewood,CO
+377585075,42.4476693,-83.2626336,EdgeConneX Detroit DET01,EdgeConneX,,
+379199519,30.2610525,-97.722122,Alpheus DataCenter,Alpheus,Austin,TX
+379204279,30.212156,-97.6957555,Digital Realty Austin AUS11,,Austin,TX
+380282154,39.0487658,-77.4453971,VISA Data Center,,Ashburn,VA
+383728972,37.4898848,-121.9310239,Hurricane Electric Fremont 1,Hurricane Electric,Fremont,CA
+383796776,41.4321977,-82.7189574,,Aligned Data Centers,,
+384396017,30.3428035,-97.6961735,Element Critical,,,
+387208881,40.7367304,-74.1738875,165 Halsey / Equinix NY1 / Databank EWR1,Tishman,Newark,NJ
+387378765,34.0353956,-84.0611057,QTS Suwanee Data Center 1,Quality Technology Services,,
+388148510,34.7562396,-92.4447234,TierPoint Little Rock,,,
+392324240,33.9547396,-84.1985246,Flexential Atlanta - Norcross,Flexential,Norcross,GA
+396296733,47.841809,-122.3016653,Centersquare Lynnwood SE1,Centersquare,Lynnwood,WA
+400540223,38.9857326,-104.787263,Walmart Colorado Data Center,Walmart,,
+405034574,41.338343,-96.0278024,Verizon,,Omaha,NE
+408012357,34.73654,-86.6731017,George C. Wallace Alabama Supercomputer Center,Alabama Supercomputer Authority,Huntsville,AL
+409296605,41.9283557,-87.8592545,Digital Realty Chicago ORD12,Digital Realty,Franklin Park,IL
+421273622,41.1655243,-96.0833669,Fidelity,Fidelity,,
+424945845,33.9217415,-118.3864588,Serverfarm - LAX1,Serverfarm LLC.,El Segundo,CA
+426586135,39.922465,-104.9834252,Google - Thornton,Google,Thorton,CO
+428021796,34.0473304,-118.25751,DRT LAX10,,,
+435518280,25.7823886,-80.1930798,NAP of the Americas,,,
+435531451,25.7975445,-80.2300338,,,Miami,
+438077632,41.5406093,-93.8248434,Microsoft,Microsoft,,
+438078069,41.6642482,-93.5147581,Facebook Altoona Data Center 1,Meta,,
+550355261,37.3600608,-77.327038,Digital Fortress: Richmond,Digital Fortress,,
+444683815,47.6542257,-117.4200007,Lumen,Lumen Technologies,Spokane,WA
+447803368,43.0672971,-89.436704,,,Madison,WI
+450078003,38.4548439,-77.9781318,Equinix CU2,Equinix,Culpeper,VA
+460177088,40.8299279,-74.1267496,Digital Realty New Jersey EWR20,Digital Realty,Clifton,NJ
+459188722,40.1570435,-74.101582,Apollo Cable Landing Station,Apollo,,
+459188725,40.8436519,-72.8833757,Cable & Wireless Cable Landing Station,,Shirley,
+1427613544,40.1024981,-82.7469519,Vantage Building 1,Vantage,New Albany,Ohio
+460067225,40.0598657,-83.1342839,Amazon AWS: Hilliard Data Center,Amazon Web Services us-east-2 datacenter,,
+460070143,45.916359,-119.2677512,Amazon PDX2,Amazon Web Services,,
+460070144,45.8410032,-119.6527688,Amazon Web Services us-west-2,Amazon Web Services,,
+460070147,45.8508808,-119.6305237,Amazon Web Services us-west-2,Amazon Web Services,Boardman,OR
+460089167,35.3142602,-81.8220553,Meta Forest City datacenter,Meta,,
+460167186,47.407164,-120.1875239,Intergate Columbia B,Sabey Data Centers,East Wenatchee,WA
+460182320,40.5379623,-74.5457225,CyrusOne Somerset,CyrusOne,,
+460212563,34.1998691,-118.3437888,,Centurylink,,
+464097467,39.56711,-119.5485335,,,,
+464371693,38.254065,-122.2730918,Kaiser Data Center,,,
+465032380,32.8379581,-96.8784007,Prime DFW01-01,Prime,Dallas,TX
+465530450,39.589248,-104.877933,Verizon,Verizon,,
+795384117,33.4079462,-112.3648297,PHX-10,Microsoft,Goodyear,AZ
+472761713,41.0783165,-74.152912,NYSE Data Center,nyse,,
+472954201,34.5799784,-118.1140073,AT&T,,Palmdale,CA
+476609221,38.8026713,-104.5219809,,,,
+480762078,45.3187166,-122.7658797,Juniper,,,
+650412346,33.007033,-96.6663507,Flexential Dallas - Plano,Flexential,Plano,TX
+487170215,30.0187,-95.8637474,,DXC Technology,,
+491914767,41.5063555,-81.683589,H5 Data Center,,Cleveland,OH
+492699069,33.7075065,-117.8441042,TPx Colocation Datacenter,TPx Communications,Santa Ana,CA
+497151852,30.3314298,-81.6624257,Cologix Jacksonville JAX1,,,
+499403180,47.2394872,-119.88741,Microsoft,Microsoft,,
+500820007,32.9837829,-97.259335,Facebook Fort Worth Datacenter,Meta,,
+502927599,38.9251636,-94.7703163,Data Center Lenexa,,Lenexa,KS
+507673418,33.0063815,-97.2452902,CITIGROUP TECHNOLOGY INC,,,
+1081973944,29.4491574,-98.6531261,QTS San Antonio II,Quality Technology Services,San Antonio,TX
+516686211,35.1428083,-80.9162228,Spectrum Charlotte National Data Center,,Charlotte,NC
+518921099,33.3541387,-111.6764271,Google Data Center,Google,,
+523886201,27.9455353,-82.351102,Cyxtera Tampa TP1,Cyxtera,Tampa,FL
+525060850,35.0315499,-85.2972523,DC Blox Chattanooga,,,
+526806006,32.8972479,-96.9826475,QTS Irving - Dallas Data Center Campus,Quality Technology Services,Irving,TX
+530024353,41.8023406,-88.0948856,Centersquare Lisle ORD4 Data Center,Centersquare,Lisle,IL
+530982335,33.3619309,-111.8392899,GoDaddy - Gilbert,,Gilbert,AZ
+531709017,32.7476543,-117.1589538,AT&T Center,American Telephone & Telegraph,San Diego,CA
+533842335,36.1405001,-86.7641364,,,,
+537807168,40.427371,-80.0425212,Expedient Pittsburgh South,Expedient,Pittsburgh,PA
+543117031,33.4212542,-111.8590191,Centersquare: Phoenix - (PHX1 - Mesa),Centersquare,Mesa,AZ
+543316327,29.9951976,-95.5633335,,DXC Technology,,
+544536822,42.6879527,-84.6430423,Liquid Web,,,
+544596573,38.9168847,-77.4932514,Amazon IAD63,Amazon Web Services,,
+545060574,42.7053904,-84.6660891,"Liquid Web, Inc",,Lansing
+545396372,38.9493217,-77.5198747,Amazon IAD62,Amazon Web Services,,
+545704217,34.0707004,-84.6759032,,,Acworth,GA
+547156394,40.1038888,-82.8106146,TJX Corporate Techno,,,
+548184239,32.9948122,-96.7524974,Flexential Dallas - Richardson,Flexential,Richardson,TX
+549418041,33.1717958,-96.725505,Experian McKinney Data Center,,,
+551387747,40.1157427,-83.0025794,,,,
+553884511,38.9235166,-92.2886061,Carfax,,,
+570397131,30.4211412,-97.591603,Thin-nology,,Pflugerville,TX
+571010571,41.1130924,-73.3886495,CyrusOne Norwalk,CyrusOne,,
+578412815,34.8298309,-106.77852,Meta Los Lunas Data Center,Meta,Los Lunas,NM
+975064000,33.7465605,-84.5797383,Digital Realty Atlanta ATL11,Digital Realty,Austell,GA
+578443547,41.9229565,-87.9182633,Microsoft - Azure Datacenter,Microsoft,Northlake,IL
+581234765,38.8721322,-99.3001874,Cloud Storage Corp,,Hays,KS
+587103676,29.8215755,-95.5708004,,,,
+589070714,42.9820886,-70.9505947,Information Technology Data Center,Phillips Exeter Academy,,
+597876719,32.9647813,-96.7158554,Rackspace Richardson DFW3,Rackspace,Richardson,TX
+598261190,38.9401343,-94.8676823,State Farm Data Center,,Olathe,KS
+607483487,39.8309301,-75.1953233,,,,
+607753694,41.2204018,-96.1476408,,Verizon Wireless,Omaha,NE
+609126465,28.6174494,-81.3934606,,,,
+610827836,33.0642722,-80.0414534,Google,Google,,
+610845529,39.213455,-76.682834,TierPoint Baltimore BWI,,Linthicum Heights,MD
+611308188,40.4565951,-109.5290169,Strata Networks,,Vernal,UT
+612045611,40.5703722,-74.6703296,Goldman Sachs,,Bridgewater Township,NJ
+617511179,38.6365522,-90.2554356,Genome Data Center,Washington University in St. Louis,Saint Louis,MO
+618339179,40.581484,-74.5738875,365 Bridgewater NJ,,Bridgewater,NJ
+626281456,31.2318987,-85.455834,AngelTrax Data Center,AngelTrax Mobile Video Surveillance Solutions,Dothan,AL
+635022480,34.0570922,-84.273003,Ascent - Atlanta Data Center,Ascent,,
+639176155,29.411987,-98.8039948,Microsoft TRP2,Microsoft,,
+664938835,42.8631424,-87.9778759,Expedient Milwaukee,,Franklin,WI
+667796922,43.8951573,-69.9234342,Oxford Networks,FirstLight,Brunswick,ME
+1425043212,40.0557362,-82.7565006,QTS NAL 2 DC1,Quality Technology Services,New Albany,Ohio
+671838900,29.6581451,-95.4433121,Rice Data Center,,Houston,TX
+675108684,36.6859202,-78.3764101,Microsoft Boydton Data Center,Microsoft,,
+634635617,47.1589163,-122.2798634,Centeris SH2 Build-to-Suit,,Puyallup,WA
+685011021,33.4521575,-111.9772945,Iron Mountain AZP-2,Iron Mountain,Phoenix,AZ
+1317733642,38.9608537,-77.4913983,Digital Realty Northern Virginia IAD44,Digital Realty,Sterling,
+697417726,45.8466554,-119.6037093,Amazon Web Services us-west-2,Amazon Web Services,,
+14930068,35.0499451,-106.542801,HPC,Sandia National Laboratories,,
+706726088,39.051467,-77.5394376,Stonewall Creek Business Park,Google,Leesburg,VA
+706776322,45.797809,-119.3666157,Amazon PDX80,Amazon Web Services,,
+708931343,36.6282547,-87.2601021,Google Montgomery Data Center,Google LLC,Clarksville,TN
+714120969,33.087741,-96.8152181,DataBank Plano Data Center,,Plano,TX
+714776107,29.802893,-95.7553386,Skybox Houston One,Skybox,,
+714889192,34.9146647,-85.7483715,Google Jackson County Data Center,Google LLC,,
+714943309,40.5798956,-74.5194023,PSE&G Delivery Emergency Response Center,PSE&G,,
+715098032,35.2504249,-81.395039,T5 Charlotte Campus,,Kings Mountain,NC
+718465287,44.0707955,-92.5221323,Epic / Mayo Data Center,,Rochester,MN
+726150321,33.9716849,-96.4028488,Choctaw Nation of Oklahoma Data Center,Choctaw Nation of oklahoma,Durant,OK
+729376485,40.5843719,-74.2433813,,,Carteret,NJ
+729696933,40.7563065,-111.9548375,Flexential Salt Lake City - Downtown,Flexential,Salt Lake City,UT
+733721782,44.9265658,-123.001847,Oregon State Data Center,State of Oregon,Salem,OR
+734323663,45.5679542,-122.9167725,Digital Realty PDX11 Data Center,Digital Realty,Hillsboro,OR
+741629998,26.1900857,-80.1932967,Flexential Fort Lauderdale,Flexential,Fort Lauderdale,FL
+746278786,36.2481633,-115.1012553,Flexential Las Vegas - North,Flexential,North Las Vegas,NV
+747985149,33.9533733,-98.5247859,,,Wichita Falls,TX
+752001022,44.0474074,-121.3285496,,,,
+755540694,42.9687271,-83.779585,,,Flint,MI
+756382879,40.5993632,-74.7096745,,,,
+758278314,35.766751,-78.7839874,iGLASS Networks,,Cary,NC
+758306877,42.8336437,-88.7339975,Central Office,AT&T,Whitewater,WI
+758426349,46.3321316,-113.2926719,,,,
+758580536,40.5280718,-74.6828163,Vital Records,,,
+761185667,40.5556094,-74.7055199,Verizon Wireless NE Headquarters,,,
+766768556,44.2044349,-88.3449304,,Involta,,
+773848531,42.2353267,-83.4441406,,US Signal,,
+776316726,36.2156443,-86.7840012,Tennessee Processing Center LLC,,,
+777196805,40.5442553,-75.6543694,Allentown-TekPark,,,
+780063735,38.2462382,-122.0671844,PG&E Datacenter,,Fairfield,CA
+802054282,40.9512698,-73.897901,,,,
+812630939,42.213902,-83.198214,Comcast,Comcast,Southgate,MI
+1173537116,47.4183239,-120.20771,Microsoft EAT03,Microsoft,East Wenatchee,WA
+819981891,36.0326354,-86.6377169,HCA Information Technology & Services Data Center,,,
+819981908,35.9245097,-86.8556872,TierPoint,,,
+821081357,40.1025733,-83.1996982,Amazon Web Services,Amazon Web Services,,
+826001605,36.0234892,-86.7916196,,,,
+830138727,35.8393357,-78.3281352,BB&T Data Center,,,
+830881731,41.5167412,-93.7025134,Microsoft,Microsoft,,
+830885773,41.4978557,-93.7870593,Microsoft,Microsoft,West Des Moines,IA
+832622369,43.074831,-78.944809,,Blockfusion,Niagara Falls,NY
+835601088,37.062799,-113.5447485,Lumen,Lumen Technologies,,
+836908998,33.4047759,-86.9115651,Sungard Systems International,,,
+836947535,33.4754208,-111.7191652,Myndshift Technologies,,,
+837139011,41.7039984,-91.5870781,ForceAmp.com,,,
+838817943,35.1800507,-80.9263597,SEGRA,,Charlotte,NC
+840582927,39.0176781,-78.2909424,Middletown Data Center,,Middletown,VA
+842544718,47.8646928,-122.2841532,Norma Beach Cable Landing Station,Unity Cable System,Lynnwood,WA
+843314844,32.0927065,-110.7874236,,DirecTV,Tucson,AZ
+844359206,36.0562713,-115.0085752,Google,Google,Henderson,NV
+844386860,32.4421391,-97.0624648,Google,Google,,
+844394339,41.1235289,-96.1442004,Meta Sarpy Data center,Meta,,
+845775548,39.9891579,-105.0207261,JPMorgan Chase,JPMorgan Chase,Broomfield,CO
+850342266,43.7821763,-89.5748406,Marquette-Adams Telephone Coop,,,
+850965775,32.5387671,-96.8044586,Compass Data Center,,Red Oak,TX
+871694597,42.7454447,-73.7592013,Turnkey Internet,,Latham,NY
+876020641,47.5946162,-117.5371477,Iron Mountain,,,
+876120402,38.4626027,-78.8567247,DBT Data - Harrisonburg Center,,,
+878795698,41.0917847,-73.5166728,amnet Data Center,,Stamford,CT
+882977350,38.7170622,-77.4999396,CloudHQ MCC1,CloudHQ,,
+886330269,39.0747869,-77.564129,Microsoft,Microsoft,Leesburg,VA
+897226569,38.9495184,-77.5594451,Microsoft Data Center,Microsoft,,
+903642490,42.3172742,-111.304246,Family History Center,The Church of Jesus Christ of Latter-day Saints,,
+904453635,36.3280739,-83.3767035,,,,
+914613836,45.8379238,-119.6883543,Amazon PDX91,Amazon Web Services,,
+916046040,39.7295585,-104.7127829,,,Aurora,CO
+916148870,43.0449439,-78.7492033,,,Getzville,NY
+919948160,42.675665,-87.9184055,,,,
+923148801,41.5050658,-81.6577764,Lumen Cleveland,,,
+923167491,35.1794881,-80.5701825,,,,
+930043986,43.0120761,-76.1159253,SU Green Data Center,Syracuse University,Onondaga,NY
+930540164,33.1536001,-117.2388464,,,,
+931369845,39.2935593,-76.5517314,Johns Hopkins Data Center,,,
+933393863,38.5922987,-121.27744,Edgeconnex Data Center,EdgeConneX,Rancho Cordova,CA
+942604537,35.9204203,-86.8155401,Flexential Nashville - Franklin,Flexential,Franklin,TN
+944024849,41.5580811,-93.5276562,,,,
+958153769,32.4982046,-84.8836237,DLI ONE,DLI ONE,columbus,GA
+958728802,28.5779418,-81.5645492,E-Foam,,Winter Garden,FL
+959969621,41.4788147,-72.8010139,,,Wallingford,CT
+965755845,44.9380753,-123.0337222,CenturyLink,CenturyLink,,
+978934687,41.7074166,-87.5202329,Digital Crossroad,Digital Crossroad,Hammond,IN
+989325195,32.9720407,-97.1567144,Verizon Wireless Mew Building,,,
+1011125238,43.0513735,-88.216698,Pewaukee Data Center,WE Energies,Waukesha,WI
+1013396352,36.1829977,-115.0626696,CenturyLink,,,
+1017518460,26.1849937,-80.2868773,T-Mobile Everglades MSO Data Center,,Sunrise,FL
+1020721870,35.2492161,-91.7409058,Searcy Information Technologies,City of Searcy,Searcy,AR
+1024051963,40.2685879,-112.015101,Meta Eagle Mountain Data Center,Meta,,
+1034230196,28.2940687,-81.8348651,,,Polk City,FL
+1042260902,31.9726748,-110.3047517,,DirecTV,Benson,AZ
+1054387470,33.6004683,-83.7003581,Meta Stanton Springs Data Center,Meta,Social Circle,GA
+1056658555,40.685569,-111.8850505,Flexential Salt Lake City - Millcreek,Flexential,Salt Lake City,UT
+1073720208,41.1773457,-95.8048567,Google,Google,,
+1075445245,37.3611541,-121.9423402,,,Santa Clara,CA
+1077131079,34.9934882,-90.0341701,xAI Macrohardrr,xAI,Memphis,TN
+1083841125,38.7861601,-104.7885828,T5@Colorado Springs,,Colorado Springs,CO
+1085608797,28.0738698,-82.3683619,Flexential Tampa - North,Flexential,Tampa,FL
+1238955720,41.0361943,-73.9876261,Bloomberg Data Center,Bloomberg,Orangeburg,NY
+1092757323,40.7259269,-99.038336,Compute North,,,
+1097502168,33.7310574,-84.6160809,Flexential Atlanta - Douglasville 1,Flexential,Douglasville,GA
+1109643936,43.0821786,-79.0307777,,US Bitcoin,,
+1121188409,40.7667963,-111.9202947,Flexential Salt Lake City - Fair Park,Flexential,Salt Lake City,UT
+1126159710,45.9014505,-119.3205224,Amazon PDX63,Amazon Web Services,,
+1132541700,37.4778562,-77.2264818,Meta Henrico Data Center,Meta,,
+1133944585,38.8105602,-89.9487033,,,,
+1143804764,39.133687,-76.8514344,,,Laurel,MD
+1154349280,41.7071342,-87.9759559,Datacenter (386),UChicago Argonne LLC,,
+1154636644,41.9879619,-88.0072217,NTT Chicago CH1,NTT,Itasca,IL
+1157356188,44.8771653,-91.9199989,,West Wisconsin Telcom,Menomonie,WI
+1160814413,34.8473235,-86.6269189,Meta Huntsville Data center,Meta,,
+1173569101,41.5349901,-93.8634444,Microsoft,Microsoft,,
+1173822721,47.3594969,-120.1600907,EAT14,,,
+1178609569,40.1522366,-75.4776181,Flexential Philadelphia - Collegeville,Flexential,Collegeville,PA
+1184066765,39.3226284,-94.5980754,Meta Data Center,Meta,,
+1202051225,41.666814,-93.4559432,Lightedge Des Moines 2,,Altoona,IA
+1203535554,41.69023,-86.4686889,Amazon AWS Data Center,,,
+1210421871,41.041059,-80.633078,Carrier Services Group,,Boardman,OH
+1210515186,35.951045,-86.833406,Flexential Nashville - Cool Springs,Flexential,Franklin,TN
+1211362828,43.6383333,-89.7214027,,,,
+1213758201,36.4084957,-86.3716203,Gallatin Data Center,Meta,,
+1219083554,42.0230424,-87.9755567,T5 Chicago II,T5 Data Centers,Elk Grove Village,IL
+1221574918,30.2156048,-97.6189387,Cortex supercomputer,,,
+1227539675,38.8033786,-77.5105458,Equinix DC14,Equinix,Manassas,VA
+1227550179,32.6512011,-97.3196729,Novartis,,,
+1235255415,32.3096657,-106.7291929,,CenturyLink,,
+1235846520,36.2218945,-115.1470466,Verizon North Las Vegas,Verizon,,
+1238705019,41.361071,-81.6327814,Involta Independence,,,
+1252196797,38.9043442,-77.4524692,Amazon Web Services,Amazon Web Services,,
+1252196803,40.0921679,-82.7275475,Amazon Web Services,Amazon Web Services,,
+1252196808,40.0493536,-83.175465,Amazon Web Services,Amazon Web Services,,
+1252196812,40.0593527,-82.7717447,Google NBY-4,Google,,
+1281982556,39.8484523,-82.9963927,"Google Lockbourne, OH",Google,
+1252196820,45.9206382,-119.2318204,Amazon Web Services,Amazon Web Services,,
+1252196824,39.7240422,-82.6911124,Google,Google,,
+1254161871,37.3629981,-87.5471512,Dynamics Mining,,,
+1268789798,41.1826012,-104.0684983,Windbreak Cable,,Pine Bluffs,WY
+1287260558,38.7531664,-77.5108824,QTS Manassas DC2,Quality Technology Services,,
+1278541792,41.0573837,-81.5219276,Involta-Akron,,,
+1280344148,40.1341815,-83.2158409,Amazon Web Services,Amazon Web Services,,
+1280344153,45.8825121,-119.3416417,Amazon Web Services,Amazon Web Services,,
+1280344157,45.8199301,-119.6320855,Amazon Web Services,Amazon Web Services,,
+1282332209,34.1033836,-84.2149701,UPS Data Center,,Alpharetta,GA
+1283734104,33.4463027,-112.3738867,Microsoft,Microsoft,Goodyear,AZ
+1292169104,41.4430567,-81.803445,T5@Cleveland,T5 Data Centers,,
+1296163129,37.6651447,-121.0400334,Modesto Junior College West Data Center,Yosemite Community College District,,
+1296723872,29.686403,-98.4626475,GVTC,GVTC,,
+1300765126,32.9836243,-96.6542632,Stream Data Centers,,,
+1301559332,32.3413407,-97.7316918,MARA Data Center,Marathon Digital Holdings,Granbury,TX
+1303947602,41.6677641,-86.4730555,Amazon AWS Data Center,,,
+1304357577,38.7681429,-77.5386481,Iron Mountain VA-6,Iron Mountain,Manassas,VA
+1307072785,46.8274678,-92.1304819,Ark Duluth Data Center,,,
+1307920829,35.329773,-80.7657588,Flexential Charlotte - North,Flexential,Charlotte,NC
+1310628998,29.5801522,-98.5413037,,HEB,San Antonio,
+1312792611,41.8885461,-88.7218341,,Meta,,
+1315636714,33.4646803,-111.9975601,QTS,Quality Technology Services,,
+1318322780,41.6168519,-93.9243968,Apple,Apple,,
+1319724559,40.2245343,-83.0457923,,,Delaware,OH
+1320038649,33.6746067,-78.9438847,DC BLOX Myrtle Beach Cable Landing Station,,Myrtle Beach,SC
+1339825480,41.3429656,-96.0902066,,,Omaha,NE
+1343100173,45.1436925,-93.3871189,DataBank,,Brooklyn Park,MN
+1343764880,38.9227671,-77.4278721,Amazon Web Services,Amazon Web Services,,
+1346610234,39.3852721,-84.5662844,CyrusOne Cincinnati-Hamilton CIN4,CyrusOne,,
+1365213539,44.7752235,-122.6159312,PTC,Stayton Cooperative Telephone Company,,
+1371348227,39.7440482,-93.997376,CenturyLink,,,
+1379421123,36.1686438,-115.1431445,Flexential Las Vegas - Downtown,Flexential,Las Vegas,NV
+1380114462,38.737208,-77.8262798,,,,
+1381264361,35.0599502,-90.1563819,xAI Colossus,xAI,Memphis,TN
+1386016642,40.0164194,-83.1258518,Amazon Web Services,Amazon Web Services,,
+1386017495,45.8096338,-119.268611,Amazon Web Services,Amazon Web Services,,
+1387080629,35.5681349,-95.5124166,,,,
+1391966326,45.1321573,-93.0956156,Encompass Minneapolis Facility,Encompass,Lino Lakes,MN
+1414729942,44.1892369,-105.6104802,,,,
+1417637306,46.4068846,-105.8206969,State of Montana Data Center,State of Montana,,
+1422191450,46.0137217,-98.5725505,Applied Digital / Ellendale Data Center,Applied Digital,,
+1432637060,29.44968,-98.7144036,,,,
+1443620406,32.5498227,-97.0748553,Alinged Data Center,"Aligned Data Centers, LLC",Mansfield
+19787207,38.8023704,-77.5823062,Microsoft Data Center 1,Microsoft,Gainesville,VA
+1454573842,44.7347591,-93.0618605,,,,
+1455361421,31.5134441,-103.4485477,IONIC Digital Cedarvale,IONIC Digital,,
+1455915217,43.4631415,-116.2682325,,,,
+1456953254,37.6001856,-82.6787687,East Kentucky Network Datacenter,,Ivel,KY
+1459680304,36.3270316,-88.3200731,Newrays Two LLC Mining,,,
+1460861317,29.2930099,-98.3915987,Amazon AWS SAT - 12807 Donop,Amazon Web Services,,
+1472128597,33.4484031,-84.5224887,QTS,Quality Technology Services,,
+1482073995,40.8782456,-78.7287879,Verizon,,,
+1489113575,36.2821754,-86.7971366,Verizon Wireless,,,
+1490401523,33.777264,-100.8689012,Argo Data Center,,,
+1493169641,30.4880189,-97.6725256,Switch: The Rock,Switch,,
+1498005255,37.2784058,-98.5884618,,SC,Medicine Lodge,KS
+1498670679,31.0575233,-97.2982979,,,,
+9474864,35.8951471,-81.546278,Google Data Center,Google,,
+14593270,35.5887645,-81.2623099,Apple - Maiden Data Center,,,
+15884451,40.6437889,-74.2854476,Barclays Datacenter,Barclays,,
+16282459,39.1402303,-76.6064303,CyberNAP Glen Burnie,AiNET,,
+19390019,46.8151017,-96.8443142,Dakota Carrier Network,,,
+260996040,38.750815,-77.1962716,,,,
+441502816,33.7167763,-117.8057759,Lumen Technologies,,Tustin,
+1457383500,31.1941757,-94.7967665,,,,

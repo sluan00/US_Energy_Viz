@@ -1,0 +1,54 @@
+name,company,city,lat,lon,year_opened,capacity_mw
+Equinix CH1,Equinix,Chicago,41.853,-87.618,2002,
+Equinix CH2,Equinix,Chicago,41.853,-87.618,2007,
+Equinix CH3,Equinix,Elk Grove Village,42.009,-87.987,2010,
+Equinix CH4,Equinix,Chicago,41.853,-87.618,2012,
+Equinix CH5,Equinix,Elk Grove Village,42.009,-87.987,2014,
+Equinix CH7,Equinix,Westmont,41.795,-87.975,2019,
+Digital Realty 350 Cermak,Digital Realty,Chicago,41.853,-87.618,1999,
+Digital Realty ORD11,Digital Realty,Chicago,41.877,-87.629,2017,
+Digital Realty ORD12,Digital Realty,Franklin Park,41.932,-87.876,2018,
+Digital Realty ORD13,Digital Realty,Franklin Park,41.932,-87.876,2019,
+Digital Realty ORD23,Digital Realty,Northlake,41.917,-87.895,2021,
+CoreSite CH1,CoreSite,Chicago,41.878,-87.632,2013,
+CoreSite CH2,CoreSite,Chicago,41.867,-87.641,2018,
+CyrusOne CHI1,CyrusOne,Aurora,41.755,-88.285,2009,
+CyrusOne CHI2,CyrusOne,Aurora,41.755,-88.285,2010,58
+CyrusOne CHI3,CyrusOne,Aurora,41.749,-88.28,2026,
+CyrusOne CHI5,CyrusOne,Lombard,41.874,-88.018,2012,12
+QTS DC1,QTS,Chicago,41.842,-87.657,2015,30
+T5 Chicago I,T5 Data Centers,Elk Grove Village,42.005,-87.975,2014,20
+T5 Chicago II,T5 Data Centers,Elk Grove Village,42.005,-87.975,2018,30
+Aligned ORD-01,Aligned,Northlake,41.917,-87.895,2022,36
+Aligned ORD-02,Aligned,Northlake,41.917,-87.895,2023,36
+Stream Chicago I,Stream Data Centers,Elk Grove Village,42.009,-87.985,2018,15
+Stream Chicago II,Stream Data Centers,Elk Grove Village,42.005,-87.98,2022,32
+EdgeConneX CHI01,EdgeConneX,Elk Grove Village,42.008,-87.99,2017,24
+EdgeConneX CHI02,EdgeConneX,Elk Grove Village,42.009,-87.987,2019,7
+EdgeConneX CHI03,EdgeConneX,Elk Grove Village,42.009,-87.987,2024,22
+STACK CHI01,STACK Infrastructure,Elk Grove Village,42.012,-87.992,2015,40
+NTT CH1,NTT,Itasca,41.977,-88.015,2021,36
+Serverfarm CH1,Serverfarm,Chicago,41.87,-87.639,2013,
+Serverfarm CH2,Serverfarm,Oak Brook,41.849,-87.94,2014,
+DataBank ORD1,DataBank,Chicago,41.877,-87.629,1999,
+DataBank ORD2,DataBank,Chicago,41.87,-87.639,2013,
+DataBank ORD3,DataBank,Mount Prospect,42.066,-87.937,2013,
+DataBank ORD4,DataBank,Oak Brook,41.845,-87.935,2007,9
+Element Critical CH1,Element Critical,Wood Dale,41.963,-87.982,1989,7
+Element Critical CH2,Element Critical,Wood Dale,41.96,-87.98,2000,
+TierPoint Polk,TierPoint,Chicago,41.871,-87.644,2013,
+TierPoint West,TierPoint,Franklin Park,41.932,-87.876,2014,
+Netrality 717 Wells,Netrality,Chicago,41.874,-87.634,1998,6
+1547 ColoHouse,1547 Realty,Chicago,41.874,-87.636,2010,5
+1547 Midway,1547 Realty,Chicago,41.795,-87.645,2019,
+Cyxtera ORD1,Centersquare,Chicago,41.853,-87.618,1999,
+Cyxtera ORD2,Centersquare,Elk Grove Village,42.005,-87.978,2000,
+Evoque Lisle,Centersquare,Lisle,41.793,-88.075,2008,15
+Meta DeKalb,Meta,DeKalb,41.93,-88.75,2023,
+Microsoft EGV,Microsoft,Elk Grove Village,42.002,-87.97,2023,
+Microsoft Hoffman,Microsoft,Hoffman Estates,42.065,-88.125,2022,
+Ascent CH2,Ascent,Northlake,41.917,-87.895,2009,48
+US Signal IL01,US Signal,Oak Brook,41.849,-87.94,1992,
+Summit Deft,Summit,Chicago,41.853,-87.618,2001,
+Edged ORD01,Edged Energy,Aurora,41.749,-88.28,2025,24
+Prime Chicago,Prime Data Centers,Elk Grove Village,42.005,-87.975,2025,
