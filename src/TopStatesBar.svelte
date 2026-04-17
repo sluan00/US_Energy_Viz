@@ -37,7 +37,7 @@
         d3.select(yAxisEl).call(d3.axisLeft(yScale));
     }
 
-    $: barColor = selectedSource ? (sourceColors[selectedSource] || '#60a5fa') : '#60a5fa';
+    $: barColor = selectedSource ? (sourceColors[selectedSource] || '#10b981') : '#10b981';
 
     function handleClick(state) {
         dispatch('selectState', state);

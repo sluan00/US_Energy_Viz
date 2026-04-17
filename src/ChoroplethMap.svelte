@@ -40,7 +40,7 @@
                 if (selectedSource && sourceColors[selectedSource]) {
                     m.set(abbr, d3.interpolate('#ffffff', sourceColors[selectedSource])(t));
                 } else {
-                    m.set(abbr, d3.interpolate('#ffffff', '#08519c')(t));
+                    m.set(abbr, d3.interpolate('#ffffff', '#10b981')(t));
                 }
             }
         }
@@ -56,7 +56,7 @@
             if (selectedSource && sourceColors[selectedSource]) {
                 ctx.fillStyle = d3.interpolate('#ffffff', sourceColors[selectedSource])(t);
             } else {
-                ctx.fillStyle = d3.interpolate('#ffffff', '#08519c')(t);
+                ctx.fillStyle = d3.interpolate('#ffffff', '#10b981')(t);
             }
             ctx.fillRect(i, 0, 1, 12);
         }
