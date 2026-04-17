@@ -2,7 +2,7 @@
 
 An interactive dashboard exploring shifts in U.S. electricity generation by energy source across all 50 states from 1990 to 2024. Built with Svelte and D3.js.
 
-**Live deployment:** _[TODO: add Netlify URL after deploy]_
+**Live deployment:** us-energy-generation-dashboard.netlify.app
 
 ## Data Sources
 
