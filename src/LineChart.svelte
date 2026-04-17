@@ -7,7 +7,7 @@
     export let selectedYear;
     const dispatch = createEventDispatcher();
 
-    let margin = { top: 20, right: 80, bottom: 30, left: 50 };
+    let margin = { top: 20, right: 160, bottom: 30, left: 50 };
     let width = 900;
     let height = 200;
     let chartW = width - margin.left - margin.right;
@@ -99,17 +99,6 @@
                 fill="none"
                 stroke-width={2}
             />
-            <!-- Label at end -->
-            {@const last = data[data.length - 1]}
-            {#if last}
-                <text
-                    x={xScale(last.year) + 4}
-                    y={yScaleLeft(last.price)}
-                    fill={fuelColors[fuel]}
-                    font-size="10"
-                    dominant-baseline="middle"
-                >{fuel}</text>
-            {/if}
         {/each}
 
         <!-- Electricity price line (right axis) -->
@@ -122,16 +111,6 @@
                 stroke-width={2.5}
                 stroke-dasharray="6,3"
             />
-            {@const lastE = elecPrices[elecPrices.length - 1]}
-            {#if lastE}
-                <text
-                    x={xScale(lastE.year) + 4}
-                    y={yScaleRight(lastE.price)}
-                    fill="#60a5fa"
-                    font-size="10"
-                    dominant-baseline="middle"
-                >kWh</text>
-            {/if}
         {/if}
 
         <!-- Year selector line -->
@@ -173,6 +152,22 @@
         <!-- Axis labels -->
         <text x={-35} y={-8} fill="#aaa" font-size="10">$/MMBtu</text>
         <text x={chartW - 5} y={-8} fill="#60a5fa" font-size="10" text-anchor="end">cents/kWh</text>
+
+        <!-- Legend -->
+        <g transform="translate({chartW + 50}, 0)">
+            {#each fuelGroups as [fuel], i}
+                <g transform="translate(0, {i * 18})">
+                    <line x1={0} x2={18} y1={6} y2={6} stroke={fuelColors[fuel] || '#999'} stroke-width={2} />
+                    <text x={24} y={6} fill="#ddd" font-size="11" dominant-baseline="middle">{fuel}</text>
+                </g>
+            {/each}
+            {#if elecPrices.length > 0}
+                <g transform="translate(0, {fuelGroups.length * 18})">
+                    <line x1={0} x2={18} y1={6} y2={6} stroke="#60a5fa" stroke-width={2.5} stroke-dasharray="6,3" />
+                    <text x={24} y={6} fill="#ddd" font-size="11" dominant-baseline="middle">Electricity</text>
+                </g>
+            {/if}
+        </g>
     </g>
 </svg>
 
